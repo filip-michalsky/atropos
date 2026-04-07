@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "c2f8e47c5d3809e40afae920db7ec3f6130c89ef",
+  "prompts": {
+    "34046282d58c9f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d6501-bfda-7470-bbd0-997f7ee092e5",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Filip Michalsky",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 310,
+      "overriden_lines": 0
+    }
+  }
+}
