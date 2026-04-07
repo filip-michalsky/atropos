@@ -1,0 +1,62 @@
+environments/browserbase/README.md
+  34046282d58c9f00 1-17
+atroposlib/envs/stateful_tool_episode.py
+  34046282d58c9f00 1-265
+atroposlib/envs/base.py
+  34046282d58c9f00 82,364,378-381
+atroposlib/tests/test_stateful_tool_episode.py
+  34046282d58c9f00 1-207
+atroposlib/type_definitions.py
+  34046282d58c9f00 12,14,16-18
+environments/browserbase/browserbase_env.py
+  34046282d58c9f00 1-146
+environments/browserbase/cua_mode.py
+  34046282d58c9f00 1-10
+atroposlib/tests/test_browserbase_dom_mode.py
+  34046282d58c9f00 1-129
+environments/browserbase/dom_mode.py
+  34046282d58c9f00 1-319
+environments/browserbase/__init__.py
+  34046282d58c9f00 1-9
+pyproject.toml
+  fb4fee4795f0cc40 55,81-83
+atroposlib/envs/__init__.py
+  34046282d58c9f00 1-6
+environments/browserbase/webvoyager_env.py
+  34046282d58c9f00 1-290
+atroposlib/tests/test_browserbase_webvoyager_env.py
+  34046282d58c9f00 1-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "fd4c9f8bb645ab695b2bd87231ffa05bfad218d0",
+  "prompts": {
+    "34046282d58c9f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d6501-bfda-7470-bbd0-997f7ee092e5",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Filip Michalsky",
+      "messages": [],
+      "total_additions": 1538,
+      "total_deletions": 2,
+      "accepted_lines": 1538,
+      "overriden_lines": 0
+    },
+    "fb4fee4795f0cc40": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "27c8572c-8487-4f30-b486-022c3f1e8994",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Filip Michalsky",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
