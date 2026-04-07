@@ -1,0 +1,23 @@
+browserbase_smoke.py
+  34046282d58c9f00 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "e78d70dff90d5956618fab66258c75d5cebf8053",
+  "prompts": {
+    "34046282d58c9f00": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d6501-bfda-7470-bbd0-997f7ee092e5",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Filip Michalsky",
+      "messages": [],
+      "total_additions": 403,
+      "total_deletions": 0,
+      "accepted_lines": 403,
+      "overriden_lines": 0
+    }
+  }
+}
